@@ -14,7 +14,7 @@ $ rm -rf new_dir
 
     Copy the file sed.txt from the lorem folder and paste it to the folder lorem-copy folder.
 
-cp lorem/sed.txt lorem-copy/sed.txt
+$ cp lorem/sed.txt lorem-copy/sed.txt
 
     Copy the other two files from the lorem folder to lorem-copy folder in just one line using semicolon ;.
 
